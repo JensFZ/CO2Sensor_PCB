@@ -4,6 +4,10 @@ PCB of a CO2 Sensor based on the following idea: https://www.reichelt.de/magazin
 
 Added external power suply, leds and a buzzer (all of them are optional)
 
+<img src="https://github.com/JensFZ/CO2Sensor_PCB/raw/main/Images/CO2Sensor%20V1.0.jpg" width="400">
+<img src="https://raw.githubusercontent.com/JensFZ/CO2Sensor_PCB/main/Images/CO2Sensor%20V1.0%20-%204.jpg" width=400">
+
+
 ## Part list:
 
 ### Necessary
