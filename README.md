@@ -1,6 +1,6 @@
 # CO2Sensor - PCB
 
-##Disclamer 
+## Disclamer 
 I've ordered the PCB but i din't recieved it yet.
 And I'm not responsible for any damage.
 
