@@ -1,5 +1,10 @@
 # CO2Sensor - PCB
 
+##Disclamer 
+I've ordered the PCB but i din't recieved it yet.
+And I'm not responsible for any damage.
+
+
 PCB of a CO2 Sensor based on the following idea: https://www.reichelt.de/magazin/reichelt-magazin/co2-messgeraet-einfach-und-guenstig-selber-bauen/
 
 Added external power suply, leds and a buzzer (all of them are optional)
