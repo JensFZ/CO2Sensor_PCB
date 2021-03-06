@@ -4,7 +4,7 @@
 I've ordered the PCB but i din't recieved it yet.
 And I'm not responsible for any damage.
 
-
+## What's it
 PCB of a CO2 Sensor based on the following idea: [Reichelt Magazin - CO2 Sensor](https://www.reichelt.de/magazin/reichelt-magazin/co2-messgeraet-einfach-und-guenstig-selber-bauen/)
 
 Added external power suply, leds and a buzzer (all of them are optional)
