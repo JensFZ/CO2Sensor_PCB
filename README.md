@@ -31,7 +31,7 @@ The one in the Reichelt Magazin link above should work.
 ### Optional parts
 #### CASE ####
 - [Kleingehäuse 135x95x45mm](https://www.reichelt.de/kleingehaeuse-135-x-95-x-45-mm-eurobox-ge-p50432.html)
-- 4x M3 screws
+- 4x [M3x10 screws](https://www.reichelt.de/pan-head-schrauben-kreuzschlitz-pzd-m3-10mm-skl-m3x10-50-p65753.html?&trstct=pos_12)
 
 #### LEDs ####
 - 3x [220 Ohm Resistor](https://www.reichelt.de/widerstand-kohleschicht-220-ohm-0207-250-mw-5--1-4w-220-p1382.html)
